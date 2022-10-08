@@ -8,8 +8,6 @@ namespace Allat
         public string name;
         public int weight;
 
-        public AnimalSpecies() {}
-
         public AnimalSpecies(string animal_name, int animal_weight)
         {
             name = animal_name;
