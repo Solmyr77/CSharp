@@ -1,0 +1,8 @@
+CREATE DATABASE konyvtar;
+CREATE kiado (adoszam varchar(12) PRIMARY KEY, nev varchar(20) NOT NULL);
+
+CREATE TABLE kiadTel (kiadoAzon varchar(12) NOT NULL, telefonszam varchar(13) NOT NULL, FOREIGN KEY (kiadoAzon) REFERENCES kiado(adoszam));
+
+CREATE TABLE konyv (isbn varchar(15) PRIMARY KEY, cim varchar(30) NOT NULL, kiadDatum year);
+
+CREATE TABLE tema (konyv varchar(15) NOT NULL, tema varchar(30) NOT NULL, FOREIGN KEY (konyv) REFERENCES (konyv(isbn));

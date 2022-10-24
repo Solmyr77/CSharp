@@ -1,0 +1,16 @@
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\bin\Debug\netcoreapp3.1\LeagueAPI.exe
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\bin\Debug\netcoreapp3.1\LeagueAPI.deps.json
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\bin\Debug\netcoreapp3.1\LeagueAPI.runtimeconfig.json
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\bin\Debug\netcoreapp3.1\LeagueAPI.runtimeconfig.dev.json
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\bin\Debug\netcoreapp3.1\LeagueAPI.dll
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\bin\Debug\netcoreapp3.1\LeagueAPI.pdb
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\obj\Debug\netcoreapp3.1\LeagueAPI.csproj.AssemblyReference.cache
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\obj\Debug\netcoreapp3.1\LeagueAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\obj\Debug\netcoreapp3.1\LeagueAPI.AssemblyInfoInputs.cache
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\obj\Debug\netcoreapp3.1\LeagueAPI.AssemblyInfo.cs
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\obj\Debug\netcoreapp3.1\LeagueAPI.csproj.CoreCompileInputs.cache
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\obj\Debug\netcoreapp3.1\LeagueAPI.csproj.CopyComplete
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\obj\Debug\netcoreapp3.1\LeagueAPI.dll
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\obj\Debug\netcoreapp3.1\LeagueAPI.pdb
+C:\Users\LorinczLL\Documents\CSharp\LeagueAPI\obj\Debug\netcoreapp3.1\LeagueAPI.genruntimeconfig.cache
